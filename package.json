@@ -1,0 +1,28 @@
+{
+  "name": "basic-cli-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "cli": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shay360/basic-cli-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shay360/basic-cli-boilerplate/issues"
+  },
+  "homepage": "https://github.com/shay360/basic-cli-boilerplate#readme",
+  "devDependencies": {
+    "colors": "^1.4.0",
+    "commander": "^5.1.0",
+    "inquirer": "^7.1.0"
+  }
+}
